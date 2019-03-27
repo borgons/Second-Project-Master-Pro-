@@ -1,0 +1,43 @@
+body.color{
+	background-color:#929292;
+}
+
+.main-bg-color{
+     background-color: #f2fb64 !important;
+}
+
+.text{
+	color:#000;
+	font-family:arial;
+	font-size:15px;
+}
+
+.t-color{
+	color:#fff;
+}
+
+nav .current a{
+	color:#000;
+	font-weight:bold;
+}
+
+nav .nav-link:hover{
+	color:#000;
+	text-decoration: underline;
+
+}
+
+/*main*/
+.hd{
+	background-image: linear-gradient(#FFD500, #F7DE5C);
+	background-repeat: no-repeat;
+
+}
+
+.bd{
+	background-color:#F7E5A9;
+}
+
+.f-bck{
+	background-color:#464646;
+}
